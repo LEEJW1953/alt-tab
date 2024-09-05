@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gist.github.com/user-attachments/assets/5e80b2f7-5091-4026-861f-4720b6a96eb8" width = 55% alt="profile logo">
+<img src="https://github.com/user-attachments/assets/bd9a77c6-c364-4af8-bb23-a4e7e7dcae76" width = 55% alt="profile logo">
 
 ### ✨ 한 곳에서 해결하는 알고리즘 스터디! AltTab 📖
 
@@ -8,7 +8,7 @@
 
 ## 💬 서비스 소개
 
-### <img src="https://gist.github.com/user-attachments/assets/aa7cf52b-d4ee-4ffe-8968-d2e63a122a08" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
+### <img src="https://github.com/user-attachments/assets/4492a32f-2eee-44f1-bfb5-008ba8b36246" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
 
 알고리즘 학습, 이제는 AltTab으로 전환하세요! Algorithm Training Tab의 약자인 AltTab은 여러분의 코딩 실력을 한 단계 끌어올릴 준비가 되어 있습니다.
 
@@ -50,7 +50,7 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="https://gist.github.com/user-attachments/assets/a942cd7c-2c9c-46dd-a9ab-2e307eb670ac" alt="Landing Page">
+			<img src="https://github.com/user-attachments/assets/e507f4f2-d26f-4287-a62c-e9838eec5989" alt="Landing Page">
 		</td>
 	</tr>
 </table>
@@ -61,31 +61,31 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
     <td align="center" width="50%"><b>문제 추천</b></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/0a4ae2f6-f7d5-43be-bc9f-ffab50f01b00' style="width:100%; height:auto;"></td>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/1087abbf-70b2-4054-87c3-220d4830a0d7' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/23a9033b-9977-4068-bf8c-e0b17943f738' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/16b828d1-b8e9-4c2d-ad23-0333351ffa65' style="width:100%; height:auto;"></td>
   </tr>
   <tr>
     <td align="center" width="50%"><b>컴파일러 정답</b></td>
     <td align="center" width="50%"><b>Draw</b></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/454d8fb2-a33a-42a5-87a0-a555c67900bf' style="width:100%; height:auto;"></td>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/fc2f0038-a2c8-4d05-848f-99f1c62eb319' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/4a7ead7e-30ee-4aa0-90a9-4aeb983e0b51' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/9665a544-3fa9-4e3c-aac3-caecdb8230e4' style="width:100%; height:auto;"></td>
   </tr>
   <tr>
     <td align="center" width="50%"><b>컴파일러 에러</b></td>
     <td align="center" width="50%"><b>풀이 페이지</b></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/bd8f1bd3-f650-44ca-b694-7f3b261895c3' style="width:100%; height:auto;"></td>
-    <td align="center" width="50%"><img src='https://gist.github.com/user-attachments/assets/ce29c555-a0af-4078-a835-062700dd0e51' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/895e4106-d7d4-4e58-8f8e-6354b01313b0' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/2a919262-3768-4679-aa37-ba9bff63270f' style="width:100%; height:auto;"></td>
   </tr>
 </table>
 
 ## 🖋 Service Architecture
 
 <div align="center">
-	<img src='https://gist.github.com/user-attachments/assets/948387d5-7e20-4630-b137-d60abbd67202'>
+	<img src='https://github.com/user-attachments/assets/e2e89a12-f85c-44ef-8483-867e8a1cb5d5'>
 </div>
 
 ## ⛓ Tech Stack
